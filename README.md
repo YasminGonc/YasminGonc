@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou apaixonada por aprender e resolver problemas utilizando programação<br>Jr.Front-end</p>
+<p align="left">Apaixonada por aprender e criar soluções com programação<br>Jr.Front-end</p>
 
 ###
 
