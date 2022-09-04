@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💜 Busando colaborar com projetos em Front-end usando HTML, CSS, JS e TS<br>🚀 Aprendendo React<br>💻 Minhas stacks: HTML, CSS, JavaScript e TypeScript<br>✨ Sobre mim: engenheira de formação, ex bailarina, apaixonada por livros de fantasia, dogs e viagens para praia, não necessariamente nessa ordem.</p>
+<p align="left">💜 Busando colaborar com projetos em Front-end usando React, TS, JS, HTML e CSS<br>🚀 Aprendendo React<br>💻 Minhas stacks: React, TypeScript, JavaScript, HTML e CSS<br>✨ Sobre mim: engenheira de formação, ex bailarina, apaixonada por livros de fantasia, dogs e viagens para praia, não necessariamente nessa ordem.</p>
 
 ###
 
