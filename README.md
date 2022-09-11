@@ -27,9 +27,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>
 </div>
 
+<h2 align="left">Contato</h2>
+
 ###
 
-<br clear="both">
+<div align="left">
+  <a href="https://www.linkedin.com/in/yasmin-goncalves/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:yasmin.goncalves97@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
+    <a>
+</div>
+
+###
 
 
 
