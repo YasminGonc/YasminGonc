@@ -1,11 +1,5 @@
 <h2 align="left">Olá pessoal 👋</h2>
 
-###
-
-<p align="left">Desenvolvedora Frontend, apaixonada por aprender e criar soluções com programação</p>
-
-###
-
 <p align="left">🏢 Customer Success Engineer at Croct <br> 💜 Busando colaborar com projetos em Front-end usando React, TS, JS, HTML e CSS<br>🚀 Aprendendo React/Next e testes<br>💻 Minhas stacks: React, TypeScript, JavaScript, HTML e CSS<br>✨ Sobre mim: engenheira de formação, ex bailarina, apaixonada por livros de fantasia, dogs e viagens para praia, não necessariamente nessa ordem.</p>
 
 ###
